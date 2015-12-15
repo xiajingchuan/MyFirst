@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id="@+id/View01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="can you see me?"
+        android:foreground="@color/yellow"
+        android:background="@color/blue"/>
+    <TextView
+        android:id="@+id/View02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="can you see me?"
+        android:foreground="@color/yellow"
+        android:background="@color/blue"/>
+    <TextView
+        android:id="@+id/View03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="can you see me?"
+        android:foreground="@color/yellow"
+        android:background="@color/blue"/>
+    <TextView
+        android:id="@+id/View04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="can you see me?"
+        android:foreground="@color/yellow"
+        android:background="@color/blue"/>
+    <TextView
+        android:id="@+id/View05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="can you see me?"
+        android:foreground="@color/yellow"
+        android:background="@color/blue"/>
+    <TextView
+        android:id="@+id/View06"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="can you see me?"
+        android:foreground="@color/yellow"
+        android:background="@color/blue"/>
+    <TextView
+        android:id="@+id/View07"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:text="canyou see me ddddd?"
+        android:ellipsize="end"
+        android:background="@color/blue"/>
+</FrameLayout>

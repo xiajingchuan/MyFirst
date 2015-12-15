@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="中国"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="很多初入Android或Java开发的新手对Thread、Looper、Handler和Message仍然比较迷惑"
+        android:ellipsize="start"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="邮件test@qq.com迷惑"
+        android:ellipsize="start"
+        android:autoLink="email"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="很多初入Android或J比较迷惑"
+
+        android:shadowColor="#ff0000"
+        android:shadowDx="15.0"
+        android:shadowDy="20.0"
+        android:shadowRadius="25.0"
+        android:textSize="18sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="mima"
+        android:password="true"/>
+</LinearLayout>
